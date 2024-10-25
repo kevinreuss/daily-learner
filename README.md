@@ -1,3 +1,7 @@
+# Join the DailyLearner Beta
+
+Interested in receiving a daily dose of tech knowledge? [Sign up to Beta here!](https://docs.google.com/forms/d/e/1FAIpQLScCL31rNO5oZAFBdkV4M6L1svQPT_BWOQhIjmzYT00HpB5hRQ/viewform)
+
 # DailyLearner
 
 DailyLearner leverages Large Language Models (LLMs) to generate daily mini-lectures on various software and computer systems topics. The goal is to help you learn something new about technology every single day.
@@ -16,7 +20,3 @@ Here are some sample topics and a preview of what the email will look like:
 1. Each day, DailyLearner uses an LLM to create a concise, informative lecture on a specific topic in software engineering or computer science.
 2. The generated content is sent via email to subscribers.
 3. Topics cover a wide range of subjects, from fundamental concepts to cutting-edge technologies.
-
-# Join the DailyLearner Beta
-
-Interested in receiving a daily dose of tech knowledge? [Sign up to Beta here!](https://docs.google.com/forms/d/e/1FAIpQLScCL31rNO5oZAFBdkV4M6L1svQPT_BWOQhIjmzYT00HpB5hRQ/viewform)
