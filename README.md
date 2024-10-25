@@ -13,9 +13,9 @@ DailyLearner leverages Large Language Models (LLMs) to generate daily mini-lectu
 Here are some sample topics:
 
 - [Backpropagation](topics/20241025-Backpropagation%20in%20Neural%20Networks.md)
-- [Deadlock Avoidance Techniques](topics/deadlock-avoidance.md)
-- [Shader Programming](topics/shader-programming.md)
-- [WebAssembly](topics/webassembly.md)
+- [Deadlock Avoidance Techniques](topics/20241025-Deadlock%20Avoidance%20Techniques.md)
+- [Shader Programming](topics/20241025-Shader%20Programming%20in%20Graphics.md)
+- [WebAssembly](topics/20241025-WebAssembly%3A%20Performance%20and%20Use%20Cases.md)
 
 Click on the links above to see examples of how the daily emails will look.
 
