@@ -12,7 +12,7 @@ DailyLearner leverages Large Language Models (LLMs) to generate daily mini-lectu
 
 Here are some sample topics:
 
-- [Backpropagation](topics/backpropagation.md)
+- [Backpropagation](topics/20241025-Backpropagation%20in%20Neural%20Networks.md)
 - [Deadlock Avoidance Techniques](topics/deadlock-avoidance.md)
 - [Shader Programming](topics/shader-programming.md)
 - [WebAssembly](topics/webassembly.md)
