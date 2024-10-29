@@ -1,6 +1,6 @@
-# Join the DailyLearner Beta
+# Join the DailyLearner
 
-Interested in receiving a daily dose of tech knowledge? [Sign up to Beta here!](https://docs.google.com/forms/d/e/1FAIpQLScCL31rNO5oZAFBdkV4M6L1svQPT_BWOQhIjmzYT00HpB5hRQ/viewform)
+Interested in receiving a daily dose of tech knowledge? [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLScCL31rNO5oZAFBdkV4M6L1svQPT_BWOQhIjmzYT00HpB5hRQ/viewform)
 
 # DailyLearner
 
